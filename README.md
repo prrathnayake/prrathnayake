@@ -170,6 +170,7 @@ Cyber Security       ██████████████████░�
 System Design        ██████████████████░░ 90%
 Distributed Systems  █████████████████░░░ 85%
 DevOps & Cloud       ████████████████░░░░ 80%
+```
 
 ## 🌐 Connect With Me
 
